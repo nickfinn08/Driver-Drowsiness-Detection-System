@@ -2,9 +2,9 @@
 Driver Drowsiness Detection System is a real time project that uses python libraries like OpenCV, NumPy, pygame, dlib and imutils that monitors the eyes of the driver. Based on real time calculations if found equal to sleeping it sets on an alarm to alert the user after a while of closing eyes.
 
 # Features
-Real-time video processing using webcam
-Facial and eye landmark detection
-Drowsiness classification based on eye aspect ratio (EAR)
+Real-time video processing using webcam.
+Facial and eye landmark detection.
+Drowsiness classification based on eye aspect ratio (EAR).
 
 Alarm system for sleep detection
 # How It Works:
